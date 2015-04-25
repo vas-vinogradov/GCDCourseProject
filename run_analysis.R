@@ -1,3 +1,5 @@
+library(dplyr)
+
 ##Preparing Data
 
 #Reading column names from file
